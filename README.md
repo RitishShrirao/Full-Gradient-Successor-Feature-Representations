@@ -88,6 +88,40 @@ Implemented variants:
 
 ---
 
+## Results
+
+![Cumulative Reward Four-rooms](results/4room_cumulative_reward-1.png)
+Cumulative reward during training in Four-rooms environment.
+
+![Reacher Rewards](results/reacher_rewards.png)
+Cumulative reward during training in Reacher environment.
+
+![PointMaze Large](results/pointmaze-large.jpg)
+Cumulative reward during training in PointMaze Large environment.
+
+![PointMaze Medium](results/pointmaze-medium.jpeg)
+Cumulative reward during training in PointMaze Medium environment.
+
+![PointMaze U-Maze](results/pointmaze-umaze.png)
+Cumulative reward during training in PointMaze U-Maze environment.
+
+![Four-Rooms Final Evaluation](results/4room_finaleval-1.png)
+Final evaluation rewards in Four-Rooms environment.
+
+![Reacher Eval](results/reacher_eval-1.png)
+Final evaluation rewards in Reacher environment.
+
+![PointMaze Large Eval](results/Pointmaze-large-eval-1.png)
+Final evaluation rewards in PointMaze Large environment.
+
+![PointMaze Medium Eval](results/pointmaze-medium-eval-1.png)
+Final evaluation rewards in PointMaze Medium environment.
+
+![PointMaze U-Maze Eval](results/pointmaze-umaze-eval-1.png)
+Final evaluation rewards in PointMaze U-Maze environment.
+
+---
+
 ## Running Experiments
 
 ### Train
