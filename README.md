@@ -1,13 +1,13 @@
 
-# FG-SFDQN: Full-Gradient Successor Feature DQN
+# Full-Gradient Successor Feature Representations
 
 [Supplementary Material](supplementary.pdf)
 
-This repository contains the implementation of **FG-SFDQN**, a framework that extends **Successor Feature DQN (SFDQN)** by performing full-gradient minimization of the Bellman residual. The approach is designed to improve sample efficiency, training stability, and transfer performance.
+This repository contains the implementation of **FG-SFRQL**, a framework that extends **Successor Feature Representations (SFRQL)** by performing full-gradient minimization of the Bellman residual. The approach is designed to improve sample efficiency, training stability, and transfer performance.
 
 We empirically compare:
 - **DQN** (standard value-based baseline),
-- **SFDQN** (semi-gradient successor feature learning),
+- **SFDQN** (semi-gradient successor feature representations),
 - **FGDQN** (full-gradient DQN baseline), and
 - **FG-SFDQN** (our proposed full-gradient variants),
 
