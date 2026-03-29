@@ -1,0 +1,12 @@
+*.pyc
+*.log
+*.png
+*.jpg
+*.jpeg
+*.pt
+*.mp4
+*.tex
+*.npz
+*.pkl
+wandb/*
+*.json
