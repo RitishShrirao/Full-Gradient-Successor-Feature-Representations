@@ -82,9 +82,9 @@ Minimizes the full Mean Squared Bellman Error (MSBE) by differentiating through 
 
 Implemented variants:
 
-* **Alg 1 (Sequential FG-SFDQN)**: Full-gradient updates with GPI-based assignment.
-* **Alg 2 (Randomized Tasks)**: Random task sampling for stationary training.
-* **Alg 3 (Randomized + Averaging)**: Conditional replay with averaging over next-state encodings.
+* **Alg 1 (Sequential FG-SFDQN)**: The sequential implementation used in the experiments, where tasks are learned one after another. This is a direct modification of the standard SFRQL algorithm that incorporates full gradient updates.
+* **Alg 2 (Randomized Tasks)**: introduces randomized task sampling. By drawing tasks from a distribution $\pi(i)$, it ensures that state-action-task triplets are visited according to a stationary distribution, satisfying the stationarity requirement of the mean-field analysis.
+* **Alg 3 (Randomized + Averaging)**: extends Algorithm 2 by incorporating averaging over N next-state transitions.
 
 ---
 
