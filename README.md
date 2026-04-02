@@ -1,7 +1,10 @@
 
 # Full-Gradient Successor Feature Representations
 
-[Supplementary Material](supplementary.pdf)
+ **Supplementary Material:** [supplementary.pdf](supplementary.pdf)
+ 
+ **Paper (arXiv):** https://arxiv.org/abs/2604.00686  
+
 
 This repository contains the implementation of **FG-SFRQL**, a framework that extends **Successor Feature Representations (SFRQL)** by performing full-gradient minimization of the Bellman residual. The approach is designed to improve sample efficiency, training stability, and transfer performance.
 
@@ -141,3 +144,15 @@ python evaluate_parallel.py
 ```bash
 python graph_results.py
 ```
+
+# Citation
+```bibtex
+@misc{shrirao2026fullgradientsuccessorfeaturerepresentations,
+      title={Full-Gradient Successor Feature Representations}, 
+      author={Ritish Shrirao and Aditya Priyadarshi and Raghuram Bharadwaj Diddigi},
+      year={2026},
+      eprint={2604.00686},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2604.00686}, 
+}
