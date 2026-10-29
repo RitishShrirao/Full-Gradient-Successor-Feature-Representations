@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+*.stdout
+*.pt
+*.mp4
+.venv/
+wandb/
+videos/
+weights/
+updated_weights/
+updated_results.npz
+/paper_runs/
+/slippery_runs/
+figures/*.tex

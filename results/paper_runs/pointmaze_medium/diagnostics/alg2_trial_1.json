@@ -1,0 +1,434 @@
+[
+ {
+  "step": 5000,
+  "task": "All",
+  "bellman_residual": 0.8293701433585975,
+  "target_tie_rate": 0.20253006012024047,
+  "target_margin": 0.0055686254427583515,
+  "prior_tie_rate": 0.023551008266533065,
+  "prior_margin": 0.053882822692991494
+ },
+ {
+  "step": 10000,
+  "task": "All",
+  "bellman_residual": 0.5557493345141411,
+  "target_tie_rate": 0.16080078125,
+  "target_margin": 0.007172579407691956,
+  "prior_tie_rate": 0.00511328125,
+  "prior_margin": 0.34439201721549034
+ },
+ {
+  "step": 15000,
+  "task": "All",
+  "bellman_residual": 0.4287611839771271,
+  "target_tie_rate": 0.1243828125,
+  "target_margin": 0.008768681518733501,
+  "prior_tie_rate": 0.0029453125,
+  "prior_margin": 0.6675797113776207
+ },
+ {
+  "step": 20000,
+  "task": "All",
+  "bellman_residual": 0.3535085871219635,
+  "target_tie_rate": 0.09701953125,
+  "target_margin": 0.011130397781729699,
+  "prior_tie_rate": 0.00266796875,
+  "prior_margin": 0.7095684183239936
+ },
+ {
+  "step": 25000,
+  "task": "All",
+  "bellman_residual": 0.3253678705394268,
+  "target_tie_rate": 0.06677734375,
+  "target_margin": 0.014873582571744919,
+  "prior_tie_rate": 0.00298828125,
+  "prior_margin": 0.5185816629827023
+ },
+ {
+  "step": 30000,
+  "task": "All",
+  "bellman_residual": 0.3015055730640888,
+  "target_tie_rate": 0.058375,
+  "target_margin": 0.016217284545302392,
+  "prior_tie_rate": 0.002640625,
+  "prior_margin": 0.6423278439939022
+ },
+ {
+  "step": 35000,
+  "task": "All",
+  "bellman_residual": 0.29022525694966317,
+  "target_tie_rate": 0.05021875,
+  "target_margin": 0.016860124979168178,
+  "prior_tie_rate": 0.00261328125,
+  "prior_margin": 0.5336333405077457
+ },
+ {
+  "step": 40000,
+  "task": "All",
+  "bellman_residual": 0.26962668465077877,
+  "target_tie_rate": 0.04700390625,
+  "target_margin": 0.019303820580244064,
+  "prior_tie_rate": 0.0026875,
+  "prior_margin": 0.6615301744639873
+ },
+ {
+  "step": 45000,
+  "task": "All",
+  "bellman_residual": 0.2524059581756592,
+  "target_tie_rate": 0.04711328125,
+  "target_margin": 0.019588111355900766,
+  "prior_tie_rate": 0.002390625,
+  "prior_margin": 0.6934056553840637
+ },
+ {
+  "step": 50000,
+  "task": "All",
+  "bellman_residual": 0.24823585714399815,
+  "target_tie_rate": 0.04815625,
+  "target_margin": 0.019767422914505006,
+  "prior_tie_rate": 0.00226953125,
+  "prior_margin": 0.7539480567574501
+ },
+ {
+  "step": 55000,
+  "task": "All",
+  "bellman_residual": 0.24729939602315426,
+  "target_tie_rate": 0.04768359375,
+  "target_margin": 0.018471531867980957,
+  "prior_tie_rate": 0.00186328125,
+  "prior_margin": 0.7633389402478933
+ },
+ {
+  "step": 60000,
+  "task": "All",
+  "bellman_residual": 0.23079171557724476,
+  "target_tie_rate": 0.04609375,
+  "target_margin": 0.01987817144393921,
+  "prior_tie_rate": 0.00171484375,
+  "prior_margin": 0.8173387467861175
+ },
+ {
+  "step": 65000,
+  "task": "All",
+  "bellman_residual": 0.2053355160728097,
+  "target_tie_rate": 0.04687109375,
+  "target_margin": 0.02083084088563919,
+  "prior_tie_rate": 0.001859375,
+  "prior_margin": 0.6962402501702308
+ },
+ {
+  "step": 70000,
+  "task": "All",
+  "bellman_residual": 0.20180962623655796,
+  "target_tie_rate": 0.0428125,
+  "target_margin": 0.0219703409075737,
+  "prior_tie_rate": 0.00188671875,
+  "prior_margin": 0.7548621588349342
+ },
+ {
+  "step": 75000,
+  "task": "All",
+  "bellman_residual": 0.2027853972092271,
+  "target_tie_rate": 0.044171875,
+  "target_margin": 0.021267520226538182,
+  "prior_tie_rate": 0.00190625,
+  "prior_margin": 0.7065182629227639
+ },
+ {
+  "step": 80000,
+  "task": "All",
+  "bellman_residual": 0.19688541297614576,
+  "target_tie_rate": 0.04367578125,
+  "target_margin": 0.02168019437789917,
+  "prior_tie_rate": 0.00197265625,
+  "prior_margin": 0.7611492370963097
+ },
+ {
+  "step": 85000,
+  "task": "All",
+  "bellman_residual": 0.19325888987630604,
+  "target_tie_rate": 0.0446484375,
+  "target_margin": 0.02288970595598221,
+  "prior_tie_rate": 0.00221875,
+  "prior_margin": 0.6931966757178306
+ },
+ {
+  "step": 90000,
+  "task": "All",
+  "bellman_residual": 0.18871461147069932,
+  "target_tie_rate": 0.04652734375,
+  "target_margin": 0.02134820505976677,
+  "prior_tie_rate": 0.0022890625,
+  "prior_margin": 0.6171007447242737
+ },
+ {
+  "step": 95000,
+  "task": "All",
+  "bellman_residual": 0.1896430515497923,
+  "target_tie_rate": 0.04984765625,
+  "target_margin": 0.018245107397437097,
+  "prior_tie_rate": 0.0027421875,
+  "prior_margin": 0.5518801212012768
+ },
+ {
+  "step": 100000,
+  "task": "All",
+  "bellman_residual": 0.18316355131566525,
+  "target_tie_rate": 0.04621484375,
+  "target_margin": 0.01978865721076727,
+  "prior_tie_rate": 0.00238671875,
+  "prior_margin": 0.6395389135181904
+ },
+ {
+  "step": 105000,
+  "task": "All",
+  "bellman_residual": 0.17913895157724619,
+  "target_tie_rate": 0.04504296875,
+  "target_margin": 0.021007386935874818,
+  "prior_tie_rate": 0.00228125,
+  "prior_margin": 0.5860597563683987
+ },
+ {
+  "step": 110000,
+  "task": "All",
+  "bellman_residual": 0.17096508157998325,
+  "target_tie_rate": 0.04429296875,
+  "target_margin": 0.021084332518279552,
+  "prior_tie_rate": 0.0024140625,
+  "prior_margin": 0.5939430915117264
+ },
+ {
+  "step": 115000,
+  "task": "All",
+  "bellman_residual": 0.18028477220982314,
+  "target_tie_rate": 0.0472734375,
+  "target_margin": 0.01931045540422201,
+  "prior_tie_rate": 0.002484375,
+  "prior_margin": 0.6075779409110547
+ },
+ {
+  "step": 120000,
+  "task": "All",
+  "bellman_residual": 0.17216378872096538,
+  "target_tie_rate": 0.048359375,
+  "target_margin": 0.019736540541052817,
+  "prior_tie_rate": 0.0025859375,
+  "prior_margin": 0.5700582260340452
+ },
+ {
+  "step": 125000,
+  "task": "All",
+  "bellman_residual": 0.17335824955254794,
+  "target_tie_rate": 0.05142578125,
+  "target_margin": 0.018411986276507378,
+  "prior_tie_rate": 0.00273046875,
+  "prior_margin": 0.5299143759310245
+ },
+ {
+  "step": 130000,
+  "task": "All",
+  "bellman_residual": 0.16757534335553645,
+  "target_tie_rate": 0.04844140625,
+  "target_margin": 0.019977279663085937,
+  "prior_tie_rate": 0.00317578125,
+  "prior_margin": 0.5117325249016285
+ },
+ {
+  "step": 135000,
+  "task": "All",
+  "bellman_residual": 0.16517349072545767,
+  "target_tie_rate": 0.04738671875,
+  "target_margin": 0.018254906125366687,
+  "prior_tie_rate": 0.0023984375,
+  "prior_margin": 0.5230989128351211
+ },
+ {
+  "step": 140000,
+  "task": "All",
+  "bellman_residual": 0.1573875399902463,
+  "target_tie_rate": 0.048015625,
+  "target_margin": 0.018936312809586527,
+  "prior_tie_rate": 0.00239453125,
+  "prior_margin": 0.5882239848077297
+ },
+ {
+  "step": 145000,
+  "task": "All",
+  "bellman_residual": 0.15707021540403365,
+  "target_tie_rate": 0.04711328125,
+  "target_margin": 0.018796025395393372,
+  "prior_tie_rate": 0.0025078125,
+  "prior_margin": 0.5453054840266705
+ },
+ {
+  "step": 150000,
+  "task": "All",
+  "bellman_residual": 0.15543379871547222,
+  "target_tie_rate": 0.050328125,
+  "target_margin": 0.017132230684161188,
+  "prior_tie_rate": 0.00285546875,
+  "prior_margin": 0.48925209614634513
+ },
+ {
+  "step": 155000,
+  "task": "All",
+  "bellman_residual": 0.16205604822188616,
+  "target_tie_rate": 0.05,
+  "target_margin": 0.01747607518732548,
+  "prior_tie_rate": 0.00281640625,
+  "prior_margin": 0.4926893677711487
+ },
+ {
+  "step": 160000,
+  "task": "All",
+  "bellman_residual": 0.1531853745356202,
+  "target_tie_rate": 0.04644140625,
+  "target_margin": 0.018176044031977652,
+  "prior_tie_rate": 0.002765625,
+  "prior_margin": 0.47210197895765305
+ },
+ {
+  "step": 165000,
+  "task": "All",
+  "bellman_residual": 0.1564106457233429,
+  "target_tie_rate": 0.04685546875,
+  "target_margin": 0.018697822540998457,
+  "prior_tie_rate": 0.00278125,
+  "prior_margin": 0.49467035531997683
+ },
+ {
+  "step": 170000,
+  "task": "All",
+  "bellman_residual": 0.15676867223531007,
+  "target_tie_rate": 0.0468515625,
+  "target_margin": 0.01884097369015217,
+  "prior_tie_rate": 0.00276953125,
+  "prior_margin": 0.4600289004445076
+ },
+ {
+  "step": 175000,
+  "task": "All",
+  "bellman_residual": 0.1499710297882557,
+  "target_tie_rate": 0.04727734375,
+  "target_margin": 0.017945507548749448,
+  "prior_tie_rate": 0.00308984375,
+  "prior_margin": 0.46880068549513815
+ },
+ {
+  "step": 180000,
+  "task": "All",
+  "bellman_residual": 0.1493343300372362,
+  "target_tie_rate": 0.0452734375,
+  "target_margin": 0.017625159114599227,
+  "prior_tie_rate": 0.00275390625,
+  "prior_margin": 0.44880370822548865
+ },
+ {
+  "step": 185000,
+  "task": "All",
+  "bellman_residual": 0.15001955133676528,
+  "target_tie_rate": 0.04552734375,
+  "target_margin": 0.016973041996359826,
+  "prior_tie_rate": 0.00312109375,
+  "prior_margin": 0.4464220638871193
+ },
+ {
+  "step": 190000,
+  "task": "All",
+  "bellman_residual": 0.14559788093715906,
+  "target_tie_rate": 0.0493828125,
+  "target_margin": 0.016319234244525433,
+  "prior_tie_rate": 0.0029609375,
+  "prior_margin": 0.4592584009766579
+ },
+ {
+  "step": 195000,
+  "task": "All",
+  "bellman_residual": 0.14567850687354802,
+  "target_tie_rate": 0.048296875,
+  "target_margin": 0.016881841249763965,
+  "prior_tie_rate": 0.00291015625,
+  "prior_margin": 0.43246160772442815
+ },
+ {
+  "step": 200000,
+  "task": "All",
+  "bellman_residual": 0.14371555230766536,
+  "target_tie_rate": 0.05051171875,
+  "target_margin": 0.015791710644960405,
+  "prior_tie_rate": 0.0031640625,
+  "prior_margin": 0.4174729862809181
+ },
+ {
+  "step": 205000,
+  "task": "All",
+  "bellman_residual": 0.14203340773284434,
+  "target_tie_rate": 0.04970703125,
+  "target_margin": 0.0161128049492836,
+  "prior_tie_rate": 0.00328125,
+  "prior_margin": 0.4158148657679558
+ },
+ {
+  "step": 210000,
+  "task": "All",
+  "bellman_residual": 0.14374202240258455,
+  "target_tie_rate": 0.052,
+  "target_margin": 0.01595782299339771,
+  "prior_tie_rate": 0.00295703125,
+  "prior_margin": 0.43886880192160604
+ },
+ {
+  "step": 215000,
+  "task": "All",
+  "bellman_residual": 0.14518094143271446,
+  "target_tie_rate": 0.05051171875,
+  "target_margin": 0.016174961335957052,
+  "prior_tie_rate": 0.00308984375,
+  "prior_margin": 0.44727097737789157
+ },
+ {
+  "step": 220000,
+  "task": "All",
+  "bellman_residual": 0.13951038163155316,
+  "target_tie_rate": 0.04720703125,
+  "target_margin": 0.0173840656876564,
+  "prior_tie_rate": 0.00273046875,
+  "prior_margin": 0.466492980659008
+ },
+ {
+  "step": 225000,
+  "task": "All",
+  "bellman_residual": 0.13330927085131405,
+  "target_tie_rate": 0.04778125,
+  "target_margin": 0.01688261677324772,
+  "prior_tie_rate": 0.00266015625,
+  "prior_margin": 0.4561203855574131
+ },
+ {
+  "step": 230000,
+  "task": "All",
+  "bellman_residual": 0.14287488517910243,
+  "target_tie_rate": 0.047921875,
+  "target_margin": 0.01720869192481041,
+  "prior_tie_rate": 0.003,
+  "prior_margin": 0.46022349458932876
+ },
+ {
+  "step": 235000,
+  "task": "All",
+  "bellman_residual": 0.13940540609508753,
+  "target_tie_rate": 0.046375,
+  "target_margin": 0.017259865194559097,
+  "prior_tie_rate": 0.00294921875,
+  "prior_margin": 0.45710883784294126
+ },
+ {
+  "step": 240000,
+  "task": "All",
+  "bellman_residual": 0.14175841368734837,
+  "target_tie_rate": 0.046765625,
+  "target_margin": 0.01743681614100933,
+  "prior_tie_rate": 0.00309375,
+  "prior_margin": 0.46749122080206873
+ }
+]

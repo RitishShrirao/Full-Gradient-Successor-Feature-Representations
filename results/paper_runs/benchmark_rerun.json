@@ -1,0 +1,38 @@
+{
+  "_note": "RTX 4000 Ada (172.16.180.12), code ~/FG-SFR-sfgpi, config ~/sfgpi_runs/paper_runs/pointmaze_umaze; 2026-10-30 rerun of the Table V method list with alg1_avg (Alg. 1 + averaging, N=5) appended last; pooled over seeds 0-2, 1500 timed steps after 512 warm-up",
+  "DQN": {
+    "mean_ms": 1.0959736017199855,
+    "median_ms": 1.0690040653571486,
+    "var_ms": 0.004853103904022617
+  },
+  "FGDQN": {
+    "mean_ms": 1.235484543049501,
+    "median_ms": 1.2172884889878333,
+    "var_ms": 0.019316357183946066
+  },
+  "SFDQN": {
+    "mean_ms": 4.886256827455428,
+    "median_ms": 4.958543577231467,
+    "var_ms": 1.6671672335302965
+  },
+  "FGSFDQN": {
+    "mean_ms": 4.450361342893706,
+    "median_ms": 2.7078819693997502,
+    "var_ms": 8.32908036951898
+  },
+  "alg1_avg": {
+    "mean_ms": 5.112746738052617,
+    "median_ms": 3.8537090294994414,
+    "var_ms": 7.984348199625632
+  },
+  "alg2": {
+    "mean_ms": 9.994624256647917,
+    "median_ms": 9.803991473745555,
+    "var_ms": 0.7120221097698846
+  },
+  "alg3": {
+    "mean_ms": 10.059753617633962,
+    "median_ms": 10.138210956938565,
+    "var_ms": 0.8170912851684663
+  }
+}

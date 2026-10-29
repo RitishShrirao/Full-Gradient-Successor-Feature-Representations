@@ -1,0 +1,48 @@
+{
+  "FGDQN": {
+    "n_checkpoints": 1,
+    "n_eval_runs": 1,
+    "n_episodes": 10,
+    "task_mean": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "task_variance": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "overall_mean": 0.0,
+    "overall_variance": 0.0,
+    "per_trial": [
+      {
+        "checkpoint": "trial_2.pt",
+        "task_mean": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "task_variance": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "overall_mean": 0.0,
+        "overall_variance": 0.0
+      }
+    ]
+  }
+}
